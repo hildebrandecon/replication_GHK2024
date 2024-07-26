@@ -5,3 +5,5 @@ This folder contains the replication material for "Limited (Energy) Supply, Mone
 The folder `data` contains the raw data that is used in the paper. The README in that folder explains the details.
 
 The folder `code` contains the MATLAB code that produces the results in the paper. The README in that folder explains the details.
+
+**Note:** we did many more exercises for the paper – this repository only contains the code needed for the paper's results. If you are interested in the paper more broadly, feel free to contact me.
